@@ -1,4 +1,4 @@
-# cheatsheet
+# Cheatsheet
 So I can find out the answer quickly 
 
 All credit go to the amazing people/team who created these 
@@ -26,6 +26,6 @@ http://datacamp-community.s3.amazonaws.com/f9511cf4-abb9-4f52-9663-ea93b29ee4b7
 ## Datacamp - Keras 
 http://datacamp-community.s3.amazonaws.com/94fc681d-5422-40cb-a129-2218e9522f17
 
-# Datacamp - SciKit-Learn
+## Datacamp - SciKit-Learn
 http://datacamp-community.s3.amazonaws.com/5433fa18-9f43-44cc-b228-74672efcd116
 
